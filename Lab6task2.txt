@@ -1,0 +1,14 @@
+Script started on Mon Mar 22 13:38:38 2021
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4[0m[27m[24m[Jhashimn4@Hashims-MBP ~ % [K[?2004hssvs  ssvnc admin       admin create documents/Repo2[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4[0m[27m[24m[Jhashimn4@Hashims-MBP ~ % [K[?2004hssvs  ssvn up trunk[?2004l
+Skipped 'trunk'
+svn: E155007: None of the targets are working copies
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4[0m[27m[24m[Jhashimn4@Hashims-MBP ~ % [K[?2004hssvn add my_file.txt[?2004l
+svn: E155007: '/Users/hashimn4' is not a working copy
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4[0m[27m[24m[Jhashimn4@Hashims-MBP ~ % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Mon Mar 22 13:41:34 2021
